@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Java Developer Intern @ EchoBrains
+  Full Stack Java Intern @ EchoBrains
 </h3>
 
 <p align="center">
@@ -172,25 +172,7 @@ Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthi-2k6&show_icons=true&theme=radical"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi-2k6&layout=compact&theme=radical"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=keerthi-2k6&theme=radical"/>
-
-</p>
 
 ---
 
