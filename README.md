@@ -140,7 +140,7 @@ Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
 > Description
 
-🔗 YOUR_PROJECT_LINK
+🔗 PROJECT_LINK
 
 ---
 
@@ -148,7 +148,7 @@ Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
 > Description
 
-🔗 YOUR_PROJECT_LINK
+🔗 PROJECT_LINK
 
 ---
 
@@ -156,19 +156,13 @@ Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
 > Description
 
-🔗 YOUR_PROJECT_LINK
+🔗 PROJECT_LINK
 
 ---
 
 # 📜 Certifications
 
-✅ Add your certifications here
 
-- Microsoft GitHub Foundations
-- Spring Certification
-- NPTEL
-- IBM
-- Others...
 
 ---
 
