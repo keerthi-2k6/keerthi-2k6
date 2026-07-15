@@ -152,16 +152,10 @@ Tools
 
 
 
----
+
 
 <h3 align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
 
 </h3>
----
-## Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/keerthi-2k6/keerthi-2k6/output/github-contribution-grid-snake.svg" />
-</p>
