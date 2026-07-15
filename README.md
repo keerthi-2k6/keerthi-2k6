@@ -63,7 +63,7 @@ Currently exploring:
 
 ---
 ## Tech Stack
-## Languages
+Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
@@ -73,7 +73,7 @@ Currently exploring:
   <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
 </p>
 
-## Frontend
+Frontend
 
 <p align="left">
 
@@ -89,7 +89,7 @@ Currently exploring:
 
 </p>
 
-## Backend & Databases
+Backend & Databases
 
 
 
@@ -105,9 +105,7 @@ Currently exploring:
 
 </p>
 
-## Tools
-
-
+Tools
 
 <p align="left">
 
@@ -134,7 +132,7 @@ Currently exploring:
 
 🔗 PROJECT_LINK
 
----
+
 
 ## 👨‍💼 Employee Management System
 
@@ -142,7 +140,7 @@ Currently exploring:
 
 🔗 PROJECT_LINK
 
----
+
 
 ## 📚 Student Online Assignment Submission & Tracking System
 
