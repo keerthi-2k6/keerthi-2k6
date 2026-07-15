@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=F89820&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+React.js;Backend+Development+Enthusiast;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=F89820&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+Hibernate+%7C+React.js;Backend+Development+Enthusiast+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -19,122 +19,114 @@
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-🎓 **Bachelor of Technology**  
-Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+I'm a Full Stack Java Developer with a strong interest in backend development, enterprise applications, and software engineering.
 
-🏫 **Sreenivasa Institute of Technology and Management Studies**
+Currently, I'm working as a Full Stack Java Intern at EchoBrains, where I'm building applications using Java, Spring Boot, Hibernate, MySQL, and React.
 
-💼 **Full Stack Java Developer Intern @ EchoBrains**
+I enjoy learning new technologies, building real-world projects, and continuously improving my problem-solving skills.
 
-🌱 Currently learning
+Currently exploring:
 
-- Spring Framework
-- Spring Boot
-- Microservices
-- AI Tools
-- Backend Development
+• Spring Boot
 
-💡 Interested in
+• Microservices
 
-- Java Backend Development
-- REST APIs
-- Enterprise Applications
-- Clean Code
-- Software Engineering
+• Docker
+
+• Cloud Technologies
+
+• Artificial Intelligence
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
+
+
+
+<p>
+<a href="https://github.com/keerthi-2k6">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/r-keerthi-2k6">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:keerthi2k6@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+
+
+---
+## Tech Stack
+## Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
+</p>
+
+## Frontend
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/r-keerthi-2k6">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
 
-</p>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
 
----
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
 
-# 💻 Tech Stack
-
-## ☕ Programming Languages
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
 
 </p>
 
----
+## Backend & Databases
 
-## 🎨 Frontend
 
-<p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<p align="left">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" alt="Hibernate" />
 
-</p>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
 
----
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
 
 </p>
 
----
+## Tools
 
-## 🗄 Database
 
-<p>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="left">
 
-</p>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
 
----
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
 
-## 🛠 Tools
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
 
-<p>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" alt="Eclipse IDE" />
 
 </p>
 
+
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## 🤖 AI Powered Industrial SOP Chatbot
 
@@ -152,7 +144,7 @@ Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
 ---
 
-## 📚 Student Assignment Submission & Tracking System
+## 📚 Student Online Assignment Submission & Tracking System
 
 > Description
 
@@ -160,25 +152,7 @@ Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 
 ---
 
-# 📜 Certifications
-
-
-
----
-
-
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=keerthi-2k6&theme=radical&margin-w=15&margin-h=15"/>
-
-</p>
-
----
+# Certifications
 
 
 
