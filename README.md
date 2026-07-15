@@ -61,66 +61,64 @@ Currently exploring:
 
 ---
 ## Tech Stack
-Languages
+
+### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
-</p>
-
-Frontend
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" />
-
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" />
-
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" />
-
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" />
-
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" />
-
-</p>
-
-Backend & Databases
-
-
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot" />
-
-  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate" alt="Hibernate" />
-
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
-
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
-
-</p>
-
-Tools
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
-
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
-
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
-
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code" />
-
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" alt="Eclipse IDE" />
-
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/>
 </p>
 
 
----
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" alt="React.js"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS"/>
+</p>
+
+
+
+### Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" title="REST APIs" alt="REST APIs"/>
+</p>
+
+
+
+
+
+### Database & ORM
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/>
+  
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge" title="JPA / Hibernate" alt="JPA / Hibernate"/>
+</p>
+
+
+
+
+
+### Tools & IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" alt="Apache Maven"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" alt="Eclipse IDE"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" alt="Visual Studio Code"/>
+</p>
+
 
 # Featured Projects
 
