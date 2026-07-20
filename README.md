@@ -31,8 +31,6 @@ Currently exploring:
 
 • Microservices
 
-• Docker
-
 • Cloud Technologies
 
 • Artificial Intelligence
