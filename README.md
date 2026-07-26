@@ -38,9 +38,6 @@ Currently exploring:
 ---
 
 # Connect With Me
-
-
-
 <p>
 <a href="https://github.com/keerthi-2k6">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
