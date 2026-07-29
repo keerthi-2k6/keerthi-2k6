@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm an B.Tech AI & ML Graduate with a strong interest in backend development, enterprise applications, and software engineering.
+I'm a B.Tech AI & ML Graduate with a strong interest in backend development, enterprise applications, and software engineering.
 Currently, I'm working as a Full Stack Java Intern at EchoBrains, where I'm building applications using Java, Spring Boot, Hibernate, MySQL, and React. I enjoy learning new technologies, building real-world projects, and continuously improving my problem-solving skills.
 
 
